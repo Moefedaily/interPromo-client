@@ -12,7 +12,7 @@ Ce projet est une application web e-commerce pour une librairie, permettant aux 
 - Système de réservation de livres
 - Gestion des comptes utilisateurs
 - Interface d'administration pour la gestion des stocks et des commandes
-- Design responsive pour une expérience optimale sur tous les appareils
+- Design responsive pour une expérience optimale sur appareils mobiles et desktop
 
 ## Pages Principales
 
