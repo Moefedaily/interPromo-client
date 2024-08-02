@@ -8,4 +8,4 @@
 ## Livrable
 * Cahier des charges (pdf)
 * Données libraires à rentrer en BDD (pdf)
-* Maquette complète sur [Figma](https://www.figma.com/design/LnpGF6avDLKOYVG9903wB2/lib?node-id=0-1&t=snPnqVtbn8hyiWk2-0)
+* Maquette complète sur [Figma](https://www.figma.com/design/LnpGF6avDLKOYVG9903wB2/lib?node-id=0-1&t=snPnqVtbn8hyiWk2-0).
