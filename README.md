@@ -36,7 +36,7 @@ Les maquettes détaillées du projet sont disponibles sur Figma. Vous pouvez les
 git clone https://github.com/Moefedaily/interPromo-client.git
 
 # Aller dans le répertoire du projet
-cd InterinterPromo-client
+cd interPromo-client
 
 # Installer les dépendances
 npm install
