@@ -27,7 +27,7 @@ Ce projet est une application web e-commerce pour une librairie, permettant aux 
 ## Maquettes
 
 Les maquettes détaillées du projet sont disponibles sur Figma. Vous pouvez les consulter ici :
-[Lien vers les maquettes Figma](https://www.figma.com/design/LnpGF6avDLKOYVG9903wB2/lib?node-id=0-1&t=snPnqVtbn8hyiWk2-0)
+[Figma](https://www.figma.com/design/LnpGF6avDLKOYVG9903wB2/lib?node-id=0-1&t=snPnqVtbn8hyiWk2-0)
 
 ## Installation et Configuration
 
