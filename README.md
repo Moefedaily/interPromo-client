@@ -37,10 +37,3 @@ git clone https://github.com/Moefedaily/interPromo-client.git
 
 # Aller dans le répertoire du projet
 cd interPromo-client
-
-# Installer les dépendances
-npm install
-
-# Lancer l'application
-npm start
-```
