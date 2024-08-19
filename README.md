@@ -21,8 +21,7 @@ Ce projet est une application web e-commerce pour une librairie, permettant aux 
 3. Catalogue des livres
 4. Page détaillée d'un livre
 5. Profil utilisateur et gestion des informations personnelles
-6. Panier et processus de réservation
-7. Interface d'administration (backoffice)
+6. Interface d'administration (backoffice)
 
 ## Maquettes
 
